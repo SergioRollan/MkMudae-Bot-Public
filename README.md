@@ -1,6 +1,6 @@
-# Discord Bot
+# MkMudae Discord Bot
 
-## 🚀 Invite the Bot
+## 🚀 Invite the MkMudae to your server!
 
 You can invite the bot to your Discord server using **[this link](https://discord.com/oauth2/authorize?client_id=1431375151601029261&permissions=397284863056&integration_type=0&scope=bot+applications.commands)**
 
@@ -121,4 +121,4 @@ Use these commands to learn about every feature the bot offers and how to intera
 
 If you have any questions or suggestions, feel free to contact us!
 
-Enjoy the MkMudae! 🤖
+Enjoy the Mario Kart team building! 🤖
