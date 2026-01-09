@@ -4,6 +4,8 @@
 
 You can invite the bot to your Discord server using **[this link](https://discord.com/oauth2/authorize?client_id=1431375151601029261&permissions=397284863056&integration_type=0&scope=bot+applications.commands)**
 
+By using the bot, you consent that we may storage the user discord id and the server id so that the system works as expected.
+
 ---
 
 ## 📖 How to Use
